@@ -45,6 +45,8 @@ python main.py
 4. Ejecutar FCFS
 5. Ejecutar Round Robin
 6. Salir
+
+
 🧠 Conceptos implementados
 Procesos
 Estados de procesos
